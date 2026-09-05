@@ -1,0 +1,6 @@
+{
+  "name": "Absent Petition Generator",
+  "description": "Generate professional court Absent Petitions under BNSS / CrPC with Telangana court picker, docket filing sheets, and instant PDF/DOCX sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
